@@ -8,6 +8,10 @@ It provides basic functionality to work with paths like: join, parentDirectory, 
 > [!IMPORTANT]
 > It is intended to be used with JXA and built using [jxa-builder](https://github.com/SebastianPilarz/jxa-builder)
 
+```bash
+npm i jxa-path
+```
+
 ```javascript
 const ph = Library("jxa-path");
 ...
